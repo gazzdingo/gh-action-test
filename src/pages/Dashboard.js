@@ -12,7 +12,7 @@ function Dashboard() {
   const darkMode = useFeature('dark-mode');
   
   // Guy's test feature for dashboard customization
-  const homePageTestGuy = useFeature('home-page-test-guy');
+  const homePageTestGuy = useFeature('home-page-test-guy'); // test feature
   const dashboardPersonalization = useFeature('dashboard-personalization');
   
   // Legacy features that should be cleaned up
