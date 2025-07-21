@@ -19,4 +19,4 @@ jobs:
               with:
                   apiKey: ${{ secrets.GB_API_TOKEN }}
                   apiHost: ${{ secrets.GB_API_HOST }}
-                  deleteMissing: true
+                  deleteMissing: "true"
